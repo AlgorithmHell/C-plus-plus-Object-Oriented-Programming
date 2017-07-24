@@ -1,0 +1,7 @@
+c founder1 7000 2015 270 270 BMW
+b founder2 6500 2014 150 250 Peugeot
+c founder3 8500 2015 150 200 BMW
+b founder4 20000 2007 150 300 Nissan
+c founder5 25000 2016 245 220 BMW
+b founder6 15500 2009 160 200 BMW
+c founder7 12300 2015 260 245 Renault

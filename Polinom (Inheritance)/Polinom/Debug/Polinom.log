@@ -1,0 +1,6 @@
+﻿  polinoms.cpp
+d:\helga\с++ programs\polinom\polinom\polinoms.cpp(134): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Polinom.vcxproj -> D:\Helga\с++ programs\Polinom\Debug\Polinom.exe
+  Polinom.vcxproj -> D:\Helga\с++ programs\Polinom\Debug\Polinom.pdb (Full PDB)

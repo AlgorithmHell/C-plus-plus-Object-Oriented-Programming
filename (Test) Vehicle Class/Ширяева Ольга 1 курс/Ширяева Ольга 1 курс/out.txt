@@ -1,0 +1,56 @@
+Car:   
+Founder: founder1
+Price: 7000
+Year: 2015
+Max speed: 270
+Volume: 270
+Mark: BMW
+
+Bus:   
+Founder: founder2
+Price: 6500
+Year: 2014
+Max amount of passengers: 150
+Volume: 250
+Mark: Peugeot
+
+Car:   
+Founder: founder3
+Price: 8500
+Year: 2015
+Max speed: 150
+Volume: 200
+Mark: BMW
+
+Bus:   
+Founder: founder4
+Price: 20000
+Year: 2007
+Max amount of passengers: 150
+Volume: 300
+Mark: Renault
+
+Car:   
+Founder: founder5
+Price: 25000
+Year: 2016
+Max speed: 245
+Volume: 220
+Mark: BMW
+
+Bus:   
+Founder: founder6
+Price: 15500
+Year: 2009
+Max amount of passengers: 160
+Volume: 200
+Mark: BMW
+
+Car:   
+Founder: founder7
+Price: 12300
+Year: 2015
+Max speed: 260
+Volume: 245
+Mark: Renault
+

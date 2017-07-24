@@ -1,0 +1,8 @@
+﻿  Man.cpp
+d:\helga\с++ programs\class man\class man\man.cpp(75): warning C4305: 'return': truncation from 'int' to 'bool'
+d:\helga\с++ programs\class man\class man\man.cpp(83): warning C4305: 'return': truncation from 'int' to 'bool'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  class man.vcxproj -> D:\Helga\с++ programs\class man\Debug\class man.exe
+  class man.vcxproj -> D:\Helga\с++ programs\class man\Debug\class man.pdb (Full PDB)

@@ -1,0 +1,8 @@
+1 3 5 7 9 11 13 15 17 19 
+Liner: 
+Sum: 100
+5th element: 9
+1 2 4 8 16 32 64 128 256 512 
+Exponential: 
+Sum: 1023
+5th element: 16

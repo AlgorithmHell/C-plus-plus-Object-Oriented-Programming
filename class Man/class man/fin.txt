@@ -1,0 +1,7 @@
+s Olya 18 54 woman 2016
+s Vanya 17 74 man 2016
+m Mark 18 80 man 
+s Nikita 18 74 man 2015
+m Yurii 25 80 man
+m Zhenya 19 17 woman
+s Hannah 19 56 woman 2016
