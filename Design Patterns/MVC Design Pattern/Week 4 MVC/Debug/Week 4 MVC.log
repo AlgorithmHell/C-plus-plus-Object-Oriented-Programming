@@ -1,0 +1,5 @@
+﻿  Application.cpp
+g:\helga\semester 3\week 4 mvc\week 4 mvc\controller.h(242): warning C4101: 'i': unreferenced local variable
+g:\helga\semester 3\week 4 mvc\week 4 mvc\controller.h(260): warning C4101: 'i': unreferenced local variable
+  Week 4 MVC.vcxproj -> G:\Helga\Semester 3\Week 4 MVC\Debug\Week 4 MVC.exe
+  Week 4 MVC.vcxproj -> G:\Helga\Semester 3\Week 4 MVC\Debug\Week 4 MVC.pdb (Full PDB)

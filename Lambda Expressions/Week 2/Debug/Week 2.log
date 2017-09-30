@@ -1,0 +1,41 @@
+﻿  main.cpp
+g:\helga\semester 3\week 2\week 2\main.cpp(37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  g:\helga\semester 3\week 2\week 2\main.cpp(95): note: see reference to function template instantiation 'double sum<int,double,char,int>(U,int,double,char)' being compiled
+          with
+          [
+              U=int
+          ]
+g:\helga\semester 3\week 2\week 2\main.cpp(65): warning C4244: '+=': conversion from 'const double' to 'int', possible loss of data
+  g:\helga\semester 3\week 2\week 2\main.cpp(62): note: see reference to function template instantiation 'std::tuple<int,double> TupleSum<int,double,char,double>(T,int,double,char)' being compiled
+          with
+          [
+              T=double
+          ]
+  g:\helga\semester 3\week 2\week 2\main.cpp(62): note: see reference to function template instantiation 'std::tuple<int,double> TupleSum<double,int,double,char,int>(T,double,int,double,char)' being compiled
+          with
+          [
+              T=int
+          ]
+  g:\helga\semester 3\week 2\week 2\main.cpp(97): note: see reference to function template instantiation 'std::tuple<int,double> TupleSum<int,double,int,double,char,int>(T,int,double,int,double,char)' being compiled
+          with
+          [
+              T=int
+          ]
+g:\helga\semester 3\week 2\week 2\main.cpp(37): warning C4244: '+=': conversion from 'double' to 'char', possible loss of data
+  g:\helga\semester 3\week 2\week 2\main.cpp(37): note: see reference to function template instantiation 'double sum<,char>(U)' being compiled
+          with
+          [
+              U=char
+          ]
+  g:\helga\semester 3\week 2\week 2\main.cpp(37): note: see reference to function template instantiation 'double sum<char,double>(U,char)' being compiled
+          with
+          [
+              U=double
+          ]
+  g:\helga\semester 3\week 2\week 2\main.cpp(37): note: see reference to function template instantiation 'double sum<double,char,int>(U,double,char)' being compiled
+          with
+          [
+              U=int
+          ]
+  Week 2.vcxproj -> G:\Helga\Semester 3\Week 2\Debug\Week 2.exe
+  Week 2.vcxproj -> G:\Helga\Semester 3\Week 2\Debug\Week 2.pdb (Full PDB)

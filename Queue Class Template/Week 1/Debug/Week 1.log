@@ -1,0 +1,5 @@
+﻿  Application.cpp
+g:\helga\semester 3\week 1\week 1\application.cpp(169): warning C4101: 'i': unreferenced local variable
+g:\helga\semester 3\week 1\week 1\application.cpp(187): warning C4101: 'i': unreferenced local variable
+  Week 1.vcxproj -> G:\Helga\Semester 3\Week 1\Debug\Week 1.exe
+  Week 1.vcxproj -> G:\Helga\Semester 3\Week 1\Debug\Week 1.pdb (Full PDB)
